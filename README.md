@@ -43,7 +43,7 @@ Screenshots
 (You can add screenshots of your application here)
 
 Live Demo
-[qr-code-generator08.netlify.app
+[qr-code-generator08.netlify.app]
 
 License
 This project is open source and available under the MIT License.
